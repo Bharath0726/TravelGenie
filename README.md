@@ -32,7 +32,6 @@ This project integrates **Groq Llama, SerpAPI, Airtable API**, and **email servi
 
 ### 🌍 Chat Completion API Usage
 - **LLM-based content generation** for travel itineraries.
-- **Optimized query structuring** to retrieve detailed and structured responses.
 
 ---
 
