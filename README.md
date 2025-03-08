@@ -34,14 +34,19 @@ This project integrates **Groq Llama, SerpAPI, Airtable API**, and **email servi
 
 ---
 
-## 🛠️ Technologies Used
-- **[Streamlit](https://streamlit.io/)** – UI Framework for web app development
-- **[Groq Llama](https://groq.com/)** – AI model for travel recommendations
-- **[SerpAPI](https://serpapi.com/)** – Real-time search engine API for fetching hotel and attraction details
-- **[Airtable API](https://airtable.com/)** – Storing and managing user travel plans
-- **Google Calendar API** – Automating trip scheduling
-- **Email Services** – Sending travel itineraries via email
-- **Environment Variables** – Secure handling of API keys
+## 🛠️ Tech Stack
+
+| **Technology**  | **Purpose**  |
+|---------------|-------------|
+| **Python**  | Backend logic and AI processing  |
+| **Streamlit**  | Frontend framework for interactive UI  |
+| **Groq Llama**  | LLM used for AI-generated trip plans  |
+| **SerpAPI**  | Fetches live travel details like hotels, restaurants, and attractions  |
+| **Airtable API**  | Cloud-based storage for trip details  |
+| **Email SMTP**  | Sends trip plans via email  |
+| **Markdown & HTML**  | Renders structured itinerary emails  |
+| **dotenv**  | Securely loads API keys from `.env`  |
+
 
 ---
 
