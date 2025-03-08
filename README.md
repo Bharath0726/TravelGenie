@@ -47,16 +47,21 @@ This project integrates **Groq Llama, SerpAPI, Airtable API**, and **email servi
 | **Markdown & HTML**  | Renders structured itinerary emails  |
 | **dotenv**  | Securely loads API keys from `.env`  |
 
+---
+
+### 📂 File Descriptions
+
+- **`main.py`** - Handles the Streamlit UI and coordinates AI-powered travel planning logic.
+- **`airtable_utils.py`** - Manages data storage and retrieval via the Airtable API.
+- **`email_utils.py`** - Implements functionality for sending travel itineraries via email.
+- **`calendar_utils.py`** - Integrates Google Calendar API for event scheduling.
+- **`itinerary_generator.py`** - Uses AI to generate optimized travel itineraries based on user input.
+- **`.env`** - Stores API credentials securely to avoid hardcoding sensitive data.
+- **`requirements.txt`** - Lists all necessary dependencies for the project.
+- **`README.md`** - Contains project documentation and usage instructions.
 
 ---
-📂 AI-Travel-Planner
-│── main.py # Streamlit UI & AI-powered travel planning logic
-│── airtable_utils.py # Airtable API integration (data storage)
-│── email_utils.py # Email dispatch functionality
-│── calendar_utils.py # Google Calendar API integration
-│── itinerary_generator.py # AI-powered travel itinerary generator
-│── .env # Secure API credentials
-│── requirements.txt # Required dependencies
-│── README.md # Documentation
+
+This structure ensures a **modular and scalable** approach, making it easy to maintain and expand the functionality of AI Travel Planner. 🚀
 
 
