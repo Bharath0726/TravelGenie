@@ -13,7 +13,7 @@ Directly click this link: [Project Walkthrough Video](https://drive.google.com/f
 
 ## 📽️ Project Walkthrough
 
-[🎥 Click here to watch the video](https://github.com/your-username/your-repo-name/blob/main/Bharath%27s%20Video%20-%20Mar%207%2C%202025-VEED.mp4)
+[🎥 Click here to watch the video](Bharath's Video - Mar 7, 2025-VEED.mp4)
 
 
 ## 📌 Features
