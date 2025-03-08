@@ -8,6 +8,9 @@ This project integrates **Groq Llama, SerpAPI, Airtable API**, and **email servi
 
 ---
 
+# Project Walkthrough
+Directly click this link: [Project Walkthrough Video](https://drive.google.com/file/d/1QGx_tCAMSesVIXUgjfuMVbO0mO1gyhlE/view?usp=sharing)
+
 ## 📌 Features
 ✔️ **AI-driven travel itinerary generation**  
 ✔️ **Groq Llama-powered destination research**  
