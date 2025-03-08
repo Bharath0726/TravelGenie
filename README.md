@@ -45,9 +45,3 @@ This project integrates **Groq Llama, SerpAPI, Airtable API**, and **email servi
 
 ---
 
-## 📜 Installation & Setup
-
-1️⃣ **Clone the repository**  
-```bash
-git clone https://github.com/your-username/ai-travel-planner.git
-cd ai-travel-planner
