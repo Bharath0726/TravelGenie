@@ -11,9 +11,6 @@ This project integrates **Groq Llama, SerpAPI, Airtable API**, and **email servi
 # Project Walkthrough
 Directly click this link: [Project Walkthrough Video](https://drive.google.com/file/d/1QGx_tCAMSesVIXUgjfuMVbO0mO1gyhlE/view?usp=sharing)
 
-## 📽️ Project Walkthrough
-
-[🎥 Click here to watch the video](Bharath's Video - Mar 7, 2025-VEED.mp4)
 
 
 ## 📌 Features
