@@ -27,7 +27,6 @@ This project integrates **Groq Llama, SerpAPI, Airtable API**, and **email servi
 - **Few-shot prompting**: Used for **fine-tuning recommendations**, ensuring high-quality itinerary suggestions based on examples.
 
 ### 🔄 Conversational & Chat AI
-- **LLM-based Conversational Chat** allows users to ask follow-up questions about their trips.
 - **Context-aware responses** ensure accurate and relevant travel advice.
 
 ### 🌍 Chat Completion API Usage
